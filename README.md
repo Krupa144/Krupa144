@@ -12,7 +12,7 @@ You can check my online resume here:
 ---
 
 ## 🧰 Tech Stack
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,php,postman,docker,dotnet,github" />
   </a>
