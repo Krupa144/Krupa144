@@ -35,4 +35,3 @@ You can check my online resume here:
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
-
