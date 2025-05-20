@@ -18,10 +18,16 @@ You can check my online resume here:
   </a>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krupa144&show_icons=true&theme=default&hide=stars" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krupa144&show_icons=true&theme=default&hide=stars" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa144&hide_progress=true" alt="Top Languages" />
 </p>
 
 ---
