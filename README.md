@@ -23,8 +23,8 @@ You can check my online resume here:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krupa144&show_icons=true&theme=default&hide=stars" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa144&hide_progress=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krupa144&show_icons=true&theme=default&hide=stars" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa144&hide_progress=true" alt="Top Languages" width="400" />
 </p>
 
 ---
