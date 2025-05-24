@@ -14,7 +14,7 @@ You can check my online resume here:
 ## 🧰 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,php,postman,docker,dotnet,github" />
+    <img src="https://skillicons.dev/icons?i=dotnet,js,html,css,php,postman,docker,github,git" />
   </a>
 </p>
 
