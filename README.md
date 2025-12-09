@@ -20,14 +20,6 @@ You can check my online resume here:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Krupa144&show_icons=true&theme=default&hide=stars" alt="GitHub Stats" width="400" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa144&hide_progress=true&theme=default" alt="Top Languages" width="310" /> </p>
-
-
-
----
-
 ## 📫 Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/kacper-krupa-74277b2b7/" target="_blank">
